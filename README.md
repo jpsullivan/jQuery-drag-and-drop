@@ -1,4 +1,4 @@
-#jQuery Drag and Drop
+# jQuery Drag and Drop
 
 * [Website](http://https://github.com/jpsullivan/jQuery-drag-and-drop/)
 * [Bugtracker & feature requests](https://github.com/jpsullivan/jQuery-drag-and-drop/issues)
@@ -8,7 +8,7 @@
 
 This plugin was created to duplicate the functionality of GMail's drag-and-drop attachment support.  Once your dropzone is defined, simply drag your file(s) to that area and watch the plugin do its magic.
 
-##Usage
+## Usage
 
         $('selector').filedrop({
             url: 'upload.php',
@@ -53,17 +53,17 @@ This plugin was created to duplicate the functionality of GMail's drag-and-drop 
             }
         });
 
-##Development Team / Contact Info
+## Development Team / Contact Info
 
 * Josh Sullivan - Lead Developer ([https://github.com/jpsullivan](https://github.com/jpsullivan))
 
-##Requirements
+## Requirements
 
 This plugin has two dependencies, which should most likely be used in your webapp regardless.
 
 * jQuery 1.4.4+
 * Modernizr
 
-##Roadmap
+## Roadmap
 
 This plugin will eventually be expanded on to show some demo's, tips, and legacy (fallback) support for browsers that do not yet support features such as drag-and-drop (I'm looking at your IE..)
