@@ -62,7 +62,7 @@ This plugin was created to duplicate the functionality of GMail's drag-and-drop 
 This plugin has two dependencies, which should most likely be used in your webapp regardless.
 
 * jQuery 1.4.4+
-* [http://www.modernizr.com](Modernizr.js)
+* [Modernizr.js](http://www.modernizr.com)
 
 ## Roadmap
 
