@@ -1,6 +1,6 @@
 # jQuery Drag and Drop
 
-* [Website](http://https://github.com/jpsullivan/jQuery-drag-and-drop/)
+* [Website](https://github.com/jpsullivan/jQuery-drag-and-drop/)
 * [Bugtracker & feature requests](https://github.com/jpsullivan/jQuery-drag-and-drop/issues)
 * Version: 1.0.0-beta1
 
